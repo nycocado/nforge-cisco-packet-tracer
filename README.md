@@ -1,7 +1,11 @@
-[Portuguese](README.pt.md) | English
+# NForge Network Simulation
+
+A network infrastructure simulation for **NForge**, a company specialized in producing video cards and researching AI solutions. This project was developed using **Cisco Packet Tracer** for the "Redes e Comunicações de Dados" (Data Networks and Communications) course.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-3da639.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-completed-6f42c1)
+
+[Portuguese](README.pt.md) | English
 
 ## About
 
